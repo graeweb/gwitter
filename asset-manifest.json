@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/gwitter/static/css/main.82cfa0b3.chunk.css",
-    "main.js": "/gwitter/static/js/main.4aa222b5.chunk.js",
-    "main.js.map": "/gwitter/static/js/main.4aa222b5.chunk.js.map",
+    "main.js": "/gwitter/static/js/main.a0bd4889.chunk.js",
+    "main.js.map": "/gwitter/static/js/main.a0bd4889.chunk.js.map",
     "runtime-main.js": "/gwitter/static/js/runtime-main.d5e9b82b.js",
     "runtime-main.js.map": "/gwitter/static/js/runtime-main.d5e9b82b.js.map",
     "static/js/2.ebfe5d1e.chunk.js": "/gwitter/static/js/2.ebfe5d1e.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.d5e9b82b.js",
     "static/js/2.ebfe5d1e.chunk.js",
     "static/css/main.82cfa0b3.chunk.css",
-    "static/js/main.4aa222b5.chunk.js"
+    "static/js/main.a0bd4889.chunk.js"
   ]
 }
