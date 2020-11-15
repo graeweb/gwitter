@@ -59,7 +59,7 @@ const AuthForm = () =>{
         <input className="authToggle" type="submit" value={ newAccount ? "Create Account" : "Log In" }/>
         {error && <span className="authError">{error}</span>}
       </form>
-      <span onClick={toggleAccount} className="authSwitch">{newAccount ? "Sign in" : "Create Account"}</span>
+      <span onClick={toggleAccount} className="authSwitch">{newAccount ? "Already have an account? Sign in" : "New to Gwitter? Create an Account."}</span>
     </>
   );
 };
